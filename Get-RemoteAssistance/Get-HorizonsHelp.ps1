@@ -1,6 +1,6 @@
 ﻿<# This form was created using POSHGUI.com  a free online gui designer for PowerShell
     .INSTRUCTIONS
-        1- Change line 93 to your email domain/domain for users
+        1- Change line 95 to your email domain/domain for users
         2- Change line 204 to the list of email address you want available for users
         3- Change Splatting Array on line 212 to fit your environment
         4- Change line 172 to reflect a UNC path in your $ENV if you want to
